@@ -1,4 +1,4 @@
-# ♻️ Circular Tech
+# ♻️ Circular Tech as part of 1m1b Internship
 
 ## AI-Powered Circular IT Asset Management Platform
 
@@ -670,3 +670,4 @@ RESPONSIBLE RESOURCE MANAGEMENT
 ## ♻️ Circular Tech
 
 ### Making Every IT Asset Count.
+
